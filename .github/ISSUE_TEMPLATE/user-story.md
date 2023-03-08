@@ -7,15 +7,6 @@ assignees: ''
 
 ---
 
----
-name: User Story
-about: Create User Stories
-title: ''
-labels: ''
-assignees: ''
-
----
-
 **As a** [role]  
  **I need** [function]  
  **So that** [benefit]  
